@@ -1,3 +1,9 @@
+##############################################
+# Author: Angel Moreta
+# Purpose: Tracks bitcoin price every five minutes
+##############################################
+
+
 import requests
 import time
 from datetime import datetime
